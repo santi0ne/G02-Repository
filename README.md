@@ -1,3 +1,6 @@
 # G02-Repository
-![Captura de aspecto ejemplo](https://raw.github.com/santi0ne/G02-Repository/master/Capturas/Aspectoejemplo.png)
-![Captura de aspecto depósito](https://raw.github.com/santi0ne/G02-Repository/master/Capturas/AspectoDeposito.png)
+Captura de aspecto ejemplo
+![Captura de aspecto ejemplo](https://github.com/santi0ne/G02-Repository/blob/main/Capturas/Aspectoejemplo.png?raw=true)
+
+Captura de aspecto depósito
+![Captura de aspecto depósito](https://github.com/santi0ne/G02-Repository/blob/main/Capturas/AspectoDeposito.png?raw=true)
